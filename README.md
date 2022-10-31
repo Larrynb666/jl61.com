@@ -77,6 +77,7 @@ fiddler script是用js写的，大家可以自己按照自己的需求去修改�
    *  client.swf
 *  webres.61.com
      *  common
-   * css (这个不是资源文件，所以fd不会保存）  
+   * css (这个不是资源文件，所以fd不会保存）
+   * js (这个也是）
 <div style="text-align:center;">参考资料：<a href="https://www.52pojie.cn/thread-1468888-1-1.html" target="_blank">赛尔号：通信协议逆向与模拟&中间人攻击窃取登录凭证</a></div>
 <div style="text-align:center;">个人博客<a href="https://lanjiang.top/uncategorized/172.html" target="_blank">热血精灵派游戏资源</a></div>
