@@ -12,13 +12,13 @@ GitHub中的文件不完全
 找到
 ![image](https://user-images.githubusercontent.com/113574213/198909090-cedaab85-00ff-4710-87a4-d0faf42050ed.png)
 将原本的OnBeforeResponse函数：
- static function OnBeforeResponse(oSession: Session) {
+ `<static function OnBeforeResponse(oSession: Session) {
         if (m_Hide304s && oSession.responseCode == 304) {
             oSession["ui-hide"] = "true";
         }
-    }
-    改为：
-     static function OnBeforeResponse(oSession: Session) {
+    }>`  
+改为：
+     `<static function OnBeforeResponse(oSession: Session) {
         if (m_Hide304s && oSession.responseCode == 304) {
             oSession["ui-hide"] = "true";
         }
@@ -33,8 +33,8 @@ GitHub中的文件不完全
                         oSession.SaveResponseBody("C:\\jl61.com\\" + str);
                 }
                 // iyzyi添加，swf文件自动保存
-    }
-    上面脚本的作用是：当接收到响应response时，如果其Content-Type是application/x-shockwave-flash，则自动将其保存到文件夹c:\jl61.com中。
+    }>`  
+上面脚本的作用是：当接收到响应response时，如果其Content-Type是application/x-shockwave-flash，则自动将其保存到文件夹c:\jl61.com中。
 
 fiddler script是用js写的，大家可以自己按照自己的需求去修改。
 之后打开游戏登录器，打开fiddler，加载游戏资源只需点击游戏场景即可。
