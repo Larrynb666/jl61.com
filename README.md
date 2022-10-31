@@ -2,7 +2,7 @@
 【游戏资源不完全】
 此为热血精灵派的游戏资源文件，旨在为游戏关服后能留作怀念或（为大佬建立怀旧服）而收集的游戏数据文件
 GitHub中的文件不完全
-相对完全的游戏资源在<div style="text-align:center;">游戏文件： <a href="https://1.12.74.241:5244/1T/jl61.com.zip/" target="_blank">热血精灵派游戏资源</a></div>
+相对完全的游戏资源在<div style="text-align:center;">游戏文件： <a href="http://lanjiang.top:5244/1T/jl61.com.zip/" target="_blank">热血精灵派游戏资源</a></div>
 目前游戏文件只包含服务器内可加载的精灵模型与地图等，精灵战斗画面尚未完全
 
 有看见此游戏资源但游戏服务器并未完全关服的朋友，可以自行从游戏中获取资源：
