@@ -9,7 +9,7 @@ GitHub中的文件不完全
 相对完全的游戏资源在<div style="text-align:center;">游戏文件： <a href="http://lanjiang.top:5244/1T/jl61.com.zip/" target="_blank">热血精灵派游戏资源</a></div>
 目前游戏文件只包含服务器内可加载的精灵模型与地图等，精灵战斗画面尚未完全
 
-更详细的资源获取说明：<div style="text-align:center;"><a href="https://lanjiang.top/uncategorized/172.html" target="_blank">热血精灵派游戏资源获取说明</a></div>
+`更详细的资源获取说明：`<div style="text-align:center;"><a href="https://lanjiang.top/uncategorized/172.html" target="_blank">热血精灵派游戏资源获取说明</a></div>
 
 有看见此游戏资源但游戏服务器并未完全关服的朋友，可以自行从游戏中获取资源：
 
