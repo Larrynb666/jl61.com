@@ -43,26 +43,26 @@ fiddler script是用js写的，大家可以自己按照自己的需求去修改�
 *  jl61.com
    *  dll
       * module
-     * 各种swf  
+      * 各种swf  
    *  resource
-     *  attr
-     *  item
-     *  loginshow
-     *  map
-     *  moduleIU
-     *  other
-     *  panel
-     *  pet
-     *  regular
-     *  rune
-     *  shop
-     *  skill
-     *  title
-     *  userbuff
-     *  world
-     *  各种swf
+      *  attr
+      *  item
+      *  loginshow
+      *  map
+      *  moduleIU
+      *  other
+      *  panel
+      *  pet
+      *  regular
+      *  rune
+      *  shop
+      *  skill
+      *  title
+      *  userbuff
+      *  world
+      *  各种swf
    *  version
-     *  version加密文件.swf
+      *  version加密文件.swf
    *  client.swf
 *  webres.61.com
      *  common
