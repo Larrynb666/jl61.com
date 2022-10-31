@@ -14,8 +14,11 @@ GitHub中的文件不完全
 工具：fiddler，游戏登录器；
 
 在fiddler的自定义规则中
+
 ![image](https://user-images.githubusercontent.com/113574213/198909042-7c5c8c53-d575-46bd-ae7d-18c7d3d0e96c.png)
+
 找到
+
 ![image](https://user-images.githubusercontent.com/113574213/198909090-cedaab85-00ff-4710-87a4-d0faf42050ed.png)
 将原本的OnBeforeResponse函数：
  ```static function OnBeforeResponse(oSession: Session) {
