@@ -16,9 +16,10 @@ GitHub中的文件不完全
         if (m_Hide304s && oSession.responseCode == 304) {
             oSession["ui-hide"] = "true";
         }
-    }```
+    }
+```
 改为：
-     ```static function OnBeforeResponse(oSession: Session) {
+```static function OnBeforeResponse(oSession: Session) {
         if (m_Hide304s && oSession.responseCode == 304) {
             oSession["ui-hide"] = "true";
         }
@@ -33,7 +34,8 @@ GitHub中的文件不完全
                         oSession.SaveResponseBody("C:\\jl61.com\\" + str);
                 }
                 // iyzyi添加，swf文件自动保存
-    }```  
+    }
+```  
 上面脚本的作用是：当接收到响应response时，如果其Content-Type是application/x-shockwave-flash，则自动将其保存到文件夹c:\jl61.com中。
 
 fiddler script是用js写的，大家可以自己按照自己的需求去修改。
