@@ -38,4 +38,33 @@ GitHub中的文件不完全
 
 fiddler script是用js写的，大家可以自己按照自己的需求去修改。
 之后打开游戏登录器，打开fiddler，加载游戏资源只需点击游戏场景即可。
+
+文件夹内容格式应为：
+>  jl61.com
+>>  dll
+>>>  module
+>>>  各种swf  
+>>  resource
+>>>  attr
+>>>  item
+>>>  loginshow
+>>>  map
+>>>  moduleIU
+>>>  other
+>>>  panel
+>>>  pet
+>>>  regular
+>>>  rune
+>>>  shop
+>>>  skill
+>>>  title
+>>>  userbuff
+>>>  world
+>>>  各种swf
+>>  version
+>>>  version加密文件.swf
+>>  client.swf
+>  webres.61.com
+>> common
+>> css (这个不是资源文件，所以fd不会保存）  
 <div style="text-align:center;">参考资料：<a href="https://www.52pojie.cn/thread-1468888-1-1.html" target="_blank">赛尔号：通信协议逆向与模拟&中间人攻击窃取登录凭证</a></div>
