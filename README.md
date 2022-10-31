@@ -9,6 +9,8 @@ GitHub中的文件不完全
 相对完全的游戏资源在<div style="text-align:center;">游戏文件： <a href="http://lanjiang.top:5244/1T/jl61.com.zip/" target="_blank">热血精灵派游戏资源</a></div>
 目前游戏文件只包含服务器内可加载的精灵模型与地图等，精灵战斗画面尚未完全
 
+更详细的资源获取说明：<div style="text-align:center;"><a href="https://lanjiang.top/uncategorized/172.html" target="_blank">热血精灵派游戏资源获取说明</a></div>
+
 有看见此游戏资源但游戏服务器并未完全关服的朋友，可以自行从游戏中获取资源：
 
 工具：fiddler，游戏登录器；
@@ -80,4 +82,4 @@ fiddler script是用js写的，大家可以自己按照自己的需求去修改�
    * css (这个不是资源文件，所以fd不会保存）
    * js (这个也是）
 <div style="text-align:center;">参考资料：<a href="https://www.52pojie.cn/thread-1468888-1-1.html" target="_blank">赛尔号：通信协议逆向与模拟&中间人攻击窃取登录凭证</a></div>
-<div style="text-align:center;">个人博客<a href="https://lanjiang.top/uncategorized/172.html" target="_blank">热血精灵派游戏资源</a></div>
+<div style="text-align:center;">请支持<a href="https://lanjiang.top" target="_blank">个人博客</a></div>
