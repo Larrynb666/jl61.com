@@ -42,7 +42,7 @@ fiddler script是用js写的，大家可以自己按照自己的需求去修改�
 文件夹内容格式应为：
 *  jl61.com
    *  dll
-     * module
+      * module
      * 各种swf  
    *  resource
      *  attr
