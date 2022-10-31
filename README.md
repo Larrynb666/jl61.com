@@ -6,7 +6,9 @@ GitHub中的文件不完全
 目前游戏文件只包含服务器内可加载的精灵模型与地图等，精灵战斗画面尚未完全
 
 有看见此游戏资源但游戏服务器并未完全关服的朋友，可以自行从游戏中获取资源：
+
 工具：fiddler，游戏登录器；
+
 在fiddler的自定义规则中
 ![image](https://user-images.githubusercontent.com/113574213/198909042-7c5c8c53-d575-46bd-ae7d-18c7d3d0e96c.png)
 找到
